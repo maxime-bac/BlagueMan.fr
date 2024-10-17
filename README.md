@@ -1,0 +1,2 @@
+# BlagueMan.fr
+site
